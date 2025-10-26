@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" 
+  <img src="[https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDN1NnlvYm10bHRxMXl3cmFhMTdjODd6aTF1b3A0ZDM2Z2MwdmI0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" 
        alt="Coding" 
        width="450">
 </p>
