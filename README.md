@@ -1,8 +1,7 @@
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-top: 20px;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFvY2xiamlqNGR2Z21hMW5iZmg5OWoxY2M4ejVmcmg4cGF0N3k2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
-       alt="Coding GIF"
-       style="max-width: 100%; height: auto; border-radius: 10px;">
-</div>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFvY2xiamlqNGR2Z21hMW5iZmg5OWoxY2M4ejVmcmg4cGF0N3k2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
+     alt="Coding GIF"
+     style="display: block; margin: 0 auto; max-width: 100%; height: auto; border-radius: 10px;">
+
 
 
 
