@@ -1,5 +1,4 @@
-
-[[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFvY2xiamlqNGR2Z21hMW5iZmg5OWoxY2M4ejVmcmg4cGF0N3k2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFvY2xiamlqNGR2Z21hMW5iZmg5OWoxY2M4ejVmcmg4cGF0N3k2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif
 <h1 align="center">Hi 👋, I'm Sineth Dinsara</h1>
 <h3 align="center"> IT Student | Examining the Endless Potential of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sine-D&label=Profile%20views&color=0e75b6&style=flat" alt="Sine-D" /> </p>
