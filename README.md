@@ -1,6 +1,7 @@
-<div style="text-align: center;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFvY2xiamlqNGR2Z21hMW5iZmg5OWoxY2M4ejVmcmg4cGF0N3k2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
-</div>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFvY2xiamlqNGR2Z21hMW5iZmg5OWoxY2M4ejVmcmg4cGF0N3k2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
+     alt="Coding GIF" 
+     style="display: block; margin: 0 auto;">
+
 
 <h1 align="center">Hi 👋, I'm Sineth Dinsara</h1>
 <h3 align="center"> IT Student | Examining the Endless Potential of Technology</h3>
