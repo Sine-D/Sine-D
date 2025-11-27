@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm Sineth Dinsara</h1>
 <h3 align="center"> IT Student | Examining the Endless Potential of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sine-D&label=Profile%20views&color=0e75b6&style=flat" alt="Sine-D" /> </p>
+
 
 <table align="center">
 <tr border="none">
@@ -48,7 +48,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sine-D&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
   
   </td>
 </tr>
