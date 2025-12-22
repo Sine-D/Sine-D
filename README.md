@@ -26,13 +26,7 @@
 - ⚡ Fun fact **Call me as Sine**
 
 </td>
-<td width="100%" align="center">
 
-<img align="center" alt="Coding" width="450" src="https://blog.hyperiondev.com/wp-content/uploads/2021/01/Software_Engineering.gif">
-
-
-  
-  </td>
 </tr>
 </table>
 
