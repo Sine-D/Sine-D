@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDN1NnlvYm10bHRxMXl3cmFhMTdjODd6aTF1b3A0ZDM2Z2MwdmI0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" 
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
        alt="Coding" 
        width="300"
        height="300">
