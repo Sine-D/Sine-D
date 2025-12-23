@@ -9,6 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm Sineth Dinsara</h1>
 <h3 align="center"> IT Student | Examining the Endless Potential of Technology</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sine-D&label=Profile%20views&color=0e75b6&style=flat" alt="Sine-D" /> </p>
 
 
 <table align="center">
