@@ -40,8 +40,8 @@
   <table width="100%">
     <tr>
       <td align="center" width="50%">
-        <h3>🛒 E-Commerce App</h3>
-        <p><i>Professional website for Global Cooperation website</i></p>
+        <h3>Global Cooperation (PVT) LTD</h3>
+        <p><i>Professional website for Global Cooperation company</i></p>
         <p>
           <a href="https://www.globalsoftsl.com/">
             <img src="https://img.shields.io/badge/Live%20Demo-FF4B2B?style=for-the-badge&logo=googlechrome&logoColor=white" height="25"/>
@@ -49,8 +49,8 @@
         </p>
       </td>
       <td align="center" width="50%">
-        <h3>Website for stainless-steel products company</h3>
-        <p><i>A full-stack MERN application for modern shopping.</i></p>
+        <h3>Steel Craft</h3>
+        <p><i>Website for stainless-steel products company.</i></p>
         <p>
           <a href="https://steel-craft.vercel.app/">
             <img src="https://img.shields.io/badge/Live%20Demo-FF4B2B?style=for-the-badge&logo=googlechrome&logoColor=white" height="25"/>
