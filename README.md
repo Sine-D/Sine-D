@@ -49,10 +49,10 @@
         </p>
       </td>
       <td align="center" width="50%">
-        <h3>🛒 E-Commerce App</h3>
+        <h3>Website for stainless-steel products company</h3>
         <p><i>A full-stack MERN application for modern shopping.</i></p>
         <p>
-          <a href="#">
+          <a href="https://steel-craft.vercel.app/">
             <img src="https://img.shields.io/badge/Live%20Demo-FF4B2B?style=for-the-badge&logo=googlechrome&logoColor=white" height="25"/>
           </a>
         </p>
