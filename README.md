@@ -24,7 +24,7 @@
         <li>💬 Let's talk about <b>Java</b> or <b>Web Architecture</b></li>
         <li>📫 Reach me at: <a href="mailto:sineth1211@gmail.com">sineth1211@gmail.com</a></li>
       </ul>
-      <p><b>⚡ Fun fact:</b> <i>Software engineering is 10% coding and 90% caffeine... or is it the other way around?</i> ☕</p>
+      <p></p>
     </td>
     <td width="45%" align="center">
       <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
