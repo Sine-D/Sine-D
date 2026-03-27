@@ -69,12 +69,7 @@
 </a>
 </p>
 
-<h3 align="center">☕ Support My Work</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/scar2001">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer&text=Keep%20Coding%20🚀&fontSize=40&animation=fadeIn" width="100%"/>
