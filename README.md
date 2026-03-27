@@ -1,69 +1,83 @@
+<div align="center">
+
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sineth%20Dinsara&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=51&descSize=25" width="100%"/>
+
+
+
+
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
-       alt="Coding" 
-       width="300"
-       height="300">
-</p>
-
-
-
-<h1 align="center">Hi 👋, I'm Sineth Dinsara</h1>
-<h3 align="center"> IT Student | Examining the Endless Potential of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sine-D&label=Profile%20views&color=0e75b6&style=flat" alt="Sine-D" /> </p>
-
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **MERN**
-
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **sineth1211@gmail.com**
-  
-- ⚡ Fun fact **Call me as Sine**
-
-</td>
-
-</tr>
-</table>
-
----
-
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sine-D&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-
----
-
-
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/sineth-dinsara/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" />
-
+  <img src="https://komarev.com/ghpvc/?username=Sine-D&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 💫 About Me
 
+<table align="center">
+  <tr>
+    <td width="55%" style="vertical-align: top; text-align: left;">
+      <p>👋 <b>Hi, I'm Sine!</b> I'm a passionate <b>IT Student</b> exploring the endless potential of technology.</p>
+      <ul>
+        <li>🌱 Currently mastering the <b>MERN Stack</b></li>
+        <li>🧑🎓 Undergraduate at <b>SLIIT</b></li>
+        <li>💬 Let's talk about <b>Java</b> or <b>Web Architecture</b></li>
+        <li>📫 Reach me at: <a href="mailto:sineth1211@gmail.com">sineth1211@gmail.com</a></li>
+      </ul>
+      <p><b>⚡ Fun fact:</b> <i>Software engineering is 10% coding and 90% caffeine... or is it the other way around?</i> ☕</p>
+    </td>
+    <td width="45%" align="center">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,kotlin,php,python,c,cpp,tailwind,figma&perline=9" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Interactive floating-like feel with simple icons -->
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sine-D&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="165" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sine-D&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
+</p>
+
+---
+
+## 📊 My GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sine-D&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sineth-dinsara/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Sine-D" target="blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+<h3 align="center">☕ Support My Work</h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/scar2001">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer&text=Keep%20Coding%20🚀&fontSize=40&animation=fadeIn" width="100%"/>
+</p>
+
+</div>
