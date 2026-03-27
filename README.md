@@ -34,6 +34,35 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <h3>🛒 E-Commerce App</h3>
+        <p><i>Professional website for Global Cooperation website</i></p>
+        <p>
+          <a href="https://www.globalsoftsl.com/">
+            <img src="https://img.shields.io/badge/Live%20Demo-FF4B2B?style=for-the-badge&logo=googlechrome&logoColor=white" height="25"/>
+          </a>
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <h3>🛒 E-Commerce App</h3>
+        <p><i>A full-stack MERN application for modern shopping.</i></p>
+        <p>
+          <a href="#">
+            <img src="https://img.shields.io/badge/Live%20Demo-FF4B2B?style=for-the-badge&logo=googlechrome&logoColor=white" height="25"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
