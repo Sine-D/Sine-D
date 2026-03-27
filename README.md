@@ -41,7 +41,7 @@
     <tr>
       <td align="center" width="50%">
         <h3>Global Cooperation (PVT) LTD</h3>
-        <p><i>Professional website for Global Cooperation company</i></p>
+        <p><i>Professional website for Global Cooperation</i></p>
         <p>
           <a href="https://www.globalsoftsl.com/">
             <img src="https://img.shields.io/badge/Live%20Demo-FF4B2B?style=for-the-badge&logo=googlechrome&logoColor=white" height="25"/>
