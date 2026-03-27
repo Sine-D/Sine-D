@@ -37,29 +37,32 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <table width="100%">
+  <table width="100%" cellspacing="0" cellpadding="0">
     <tr>
-      <td align="center" width="50%">
-        <h3>Global Cooperation (PVT) LTD</h3>
-        <p><i>Professional website for Global Cooperation</i></p>
-        <p>
+      <!-- Project 1 -->
+      <td align="center" width="50%" valign="top">
+        <h3 align="center">Global Cooperation (PVT) LTD</h3>
+        <p align="center"><i>Professional website for Global Cooperation</i></p>
+        <p align="center">
           <a href="https://www.globalsoftsl.com/">
-            <img src="https://img.shields.io/badge/Live%20Demo-FF4B2B?style=for-the-badge&logo=googlechrome&logoColor=white" height="25"/>
+            <img src="https://img.shields.io/badge/Live%20Demo-FF4B2B?style=for-the-badge&logo=googlechrome&logoColor=white" height="28"/>
           </a>
         </p>
       </td>
-      <td align="center" width="50%">
-        <h3>Steel Craft</h3>
-        <p><i>Website for stainless-steel products company.</i></p>
-        <p>
+      <!-- Project 2 -->
+      <td align="center" width="50%" valign="top">
+        <h3 align="center">Steel Craft</h3>
+        <p align="center"><i>Website for stainless-steel products company.</i></p>
+        <p align="center">
           <a href="https://steel-craft.vercel.app/">
-            <img src="https://img.shields.io/badge/Live%20Demo-FF4B2B?style=for-the-badge&logo=googlechrome&logoColor=white" height="25"/>
+            <img src="https://img.shields.io/badge/Live%20Demo-FF4B2B?style=for-the-badge&logo=googlechrome&logoColor=white" height="28"/>
           </a>
         </p>
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
