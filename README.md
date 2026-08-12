@@ -82,11 +82,7 @@
 
 ---
 
-## 📊 My GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sine-D&theme=tokyonight&hide_border=true" width="100%" />
-</p>
 
 ---
 
