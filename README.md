@@ -101,6 +101,45 @@
 
 ---
 
+## ⚡ Tech Stack Proficiency
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%"><b>Frontend Development</b></td>
+    <td width="50%"><b>Backend & Databases</b></td>
+  </tr>
+  <tr>
+    <td>
+      HTML / CSS / JS <br/>
+      <img src="https://geps.dev/progress/90?dangerColor=808080&warningColor=36a0ce&color=7aa2f7" />
+    </td>
+    <td>
+      Node.js / Express <br/>
+      <img src="https://geps.dev/progress/80?dangerColor=808080&warningColor=36a0ce&color=7dcfff" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      React.js / Next.js <br/>
+      <img src="https://geps.dev/progress/85?dangerColor=808080&warningColor=36a0ce&color=7aa2f7" />
+    </td>
+    <td>
+      Java / Spring Boot <br/>
+      <img src="https://geps.dev/progress/75?dangerColor=808080&warningColor=36a0ce&color=bb9af7" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Tailwind CSS / Bootstrap <br/>
+      <img src="https://geps.dev/progress/85?dangerColor=808080&warningColor=36a0ce&color=7aa2f7" />
+    </td>
+    <td>
+      MongoDB / MySQL <br/>
+      <img src="https://geps.dev/progress/80?dangerColor=808080&warningColor=36a0ce&color=7dcfff" />
+    </td>
+  </tr>
+</table>
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -127,6 +166,23 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
+
+## 💬 Profile Guestbook / Leave a Comment
+
+<p align="center">
+  <a href="https://github.com/Sine-D/Sine-D/issues/new?title=👋+Hi+Sine!&body=Write+your+message+here...">
+    <img src="https://img.shields.io/badge/💬_Leave_a_Comment-Click_Here-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="Leave a Comment" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Have a question, feedback, or just want to say hi? Click the button above to leave a message on my profile! 🚀</i>
+</p>
+
+
+
 
 <br/>
 
