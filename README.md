@@ -33,7 +33,8 @@
 ## 🏆 GitHub Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sine-D&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Sine-D Trophies" />
+  <img src="https://img.shields.io/github/followers/Sine-D?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" />
+  <img src="https://img.shields.io/github/stars/Sine-D?style=for-the-badge&color=bb9af7&logo=github" />
 </p>
 
 ---
