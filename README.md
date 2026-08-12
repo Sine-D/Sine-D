@@ -51,7 +51,7 @@
       </td>
       <!-- Project 2 -->
       <td align="center" width="50%" valign="top">
-        <h3 align="center">Steel Craft</h3>
+        <h3 align="center">Steel Craft (Pvt) Ltd</h3>
         <p align="center"><i>Website for stainless-steel products company.</i></p>
         <p align="center">
           <a href="https://steel-craft.vercel.app/">
