@@ -3,9 +3,6 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sineth%20Dinsara&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=51&descSize=25" width="100%"/>
 
-
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sine-D&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
@@ -19,18 +16,25 @@
     <td width="55%" style="vertical-align: top; text-align: left;">
       <p>👋 <b>Hi, I'm Sine!</b> I'm a passionate <b>IT Student</b> exploring the endless potential of technology.</p>
       <ul>
-        <li>🌱 Currently mastering the <b>MERN Stack</b></li>
-        <li>🧑🎓 Undergraduate at <b>SLIIT</b></li>
+        <li>🌱 Currently mastering the <b>MERN Stack</b> & <b>Java Spring Boot</b></li>
+        <li>🧑‍🎓 Undergraduate at <b>SLIIT</b></li>
         <li>💬 Let's talk about <b>Java</b> or <b>Web Architecture</b></li>
         <li>📫 Reach me at: <a href="mailto:sineth1211@gmail.com">sineth1211@gmail.com</a></li>
       </ul>
-      <p></p>
     </td>
     <td width="45%" align="center">
       <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
     </td>
   </tr>
 </table>
+
+---
+
+## 🏆 GitHub Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sine-D&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Sine-D Trophies" />
+</p>
 
 ---
 
@@ -63,7 +67,6 @@
   </table>
 </div>
 
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -74,15 +77,42 @@
   </a>
 </p>
 
+---
+
+## 📊 My GitHub Statistics
+
 <p align="center">
-  <!-- Interactive floating-like feel with simple icons -->
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sine-D&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="165" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sine-D&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <!-- Top Languages Card (Working Mirror) -->
+  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=Sine-D&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="165" />
+  <!-- GitHub Stats Card (Working Mirror) -->
+  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=Sine-D&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats (Working Link) -->
+  <img src="https://streak-stats.demolab.com/?user=Sine-D&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
+</p>
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sine-D&theme=tokyonight&hide_border=true&area=true" width="98%" alt="Sine-D's Activity Graph" />
 </p>
 
 ---
 
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sine-D/Sine-D/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</p>
+
+---
+
+## 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
 
 ---
 
@@ -97,7 +127,7 @@
 </a>
 </p>
 
-
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer&text=Keep%20Coding%20🚀&fontSize=40&animation=fadeIn" width="100%"/>
