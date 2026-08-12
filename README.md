@@ -83,13 +83,6 @@
 ## 📊 My GitHub Statistics
 
 <p align="center">
-  <!-- Top Languages Card (Working Mirror) -->
-  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=Sine-D&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="165" />
-  <!-- GitHub Stats Card (Working Mirror) -->
-  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=Sine-D&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
-</p>
-
-<p align="center">
   <!-- Streak Stats (Working Link) -->
   <img src="https://streak-stats.demolab.com/?user=Sine-D&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
 </p>
