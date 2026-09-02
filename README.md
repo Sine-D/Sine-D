@@ -64,7 +64,6 @@
           </a>
         </p>
       </td>
-    </tr>
   </table>
 </div>
 
@@ -89,10 +88,6 @@
   <img src="https://streak-stats.demolab.com/?user=Sine-D&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
 </p>
 
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sine-D&theme=tokyonight&hide_border=true&area=true" width="98%" alt="Sine-D's Activity Graph" />
-</p>
 
 ---
 
